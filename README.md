@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Spigot API, NMS, and more!**
 
-- 📫 How to reach me **_Tobyy_#0001 (On Discord)**
+- 📫 How to reach me **\_Tobyy\_#0001 (On Discord)**
 
 - ⚡ Fun fact **I drink around a litre of tea per day, and that's not a joke.**
 
