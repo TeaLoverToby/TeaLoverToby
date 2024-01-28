@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm _Tobyy_.</h1>
 <h3 align="center">A passionate Java Developer from the United Kingdom!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobyy-celestialpvp&label=Profile%20views&color=0e75b6&style=flat" alt="tobyy-celestialpvp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobyy-celestialpvp&label=Profile%20views&color=0e75b6&style=flat" alt="tealovertoby" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobyy-celestialpvp" alt="tobyy-celestialpvp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tealovertoby" alt="tealovertoby" /></a> </p>
 
 - 🔭 I’m currently working on [DupeMC](https://dupemc.net)
 
